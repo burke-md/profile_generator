@@ -22,7 +22,7 @@ rl.question('What\'s your name? Nicknames are also acceptable :)', (answer) => {
           const resp5 = answer;
           //Q6
           rl.question('Which sport is your absolute favourite?', (answer) => {
-            const resp6 = answer;
+            const resp6 = answer;  
             //Q7
             rl.question('What is your superpower? In a few words, tell us what you are amazing at!', (answer) => {
               const resp7 = answer;
